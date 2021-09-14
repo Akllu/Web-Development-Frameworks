@@ -1,0 +1,19 @@
+.MostRead {
+    font-weight: 400;
+}
+
+.MostRead span {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+li::before {
+    content: counter(article);
+    counter-increment: article;
+    font-size: 28px;
+    font-weight: 800;
+    margin-right: 8px;
+    min-width: 36px;
+    min-height: 109px;
+    color: rgb(65, 150, 163);
+}

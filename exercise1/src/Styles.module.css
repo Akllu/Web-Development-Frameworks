@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 234, 237);
+}
+
+.TopArticlesContainer {
+    width: 964px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.NewsContainer {
+    display: flex;
+    justify-content: center;
+    min-width: 964px;    
+}
+
+.MainNewsContainer {
+    width: 650px;    
+}
+
+.MostReadContainer {
+    background-color: white;
+    color: rgb(25, 25, 25);
+    width: 308px;
+    margin-top: 16px;
+}

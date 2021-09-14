@@ -1,0 +1,35 @@
+.MainNews {
+    background-color: white;
+    color: rgb(25, 25, 25);
+    font-size: 26px;
+    font-weight: bold;
+    padding: 16px;
+    margin-top: 16px;
+    margin-right: 16px;
+}
+
+.MainNews img {
+    max-width: 100%;
+    width: 608px;
+    height: 342px;
+}
+
+.MainNews span {
+    color: rgb(0, 184, 224);
+    font-size: 26px;    
+}
+
+.Category {
+    color: rgb(72, 72, 72);
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+ol {
+    list-style-type: none;
+    counter-reset: article;
+    margin: 0;
+    padding-left: 16px;
+    padding-right: 16px; 
+}
