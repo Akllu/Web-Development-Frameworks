@@ -26,7 +26,16 @@ class App extends React.Component {
   addItems = (item) => {
     let lastId = this.state.items.length;
     let randQty = Math.floor(Math.random() * 20);
-    this.setState({ items: [...this.state.items, {id: lastId+1, value: (item), qty: randQty, unit: 'x'}]})
+
+    if (this.state.items.some(i => i.value === item)) {
+      let itemIndex = this.state.items.findIndex(i => i.value === item)
+      let newItems = [...this.state.items]
+      newItems[itemIndex].qty += randQty
+      this.setState({ newItems })
+    }
+    else {
+      this.setState({ items: [...this.state.items, {id: lastId+1, value: (item), qty: randQty, unit: 'x'}]})
+    }
   }
 
   render()
