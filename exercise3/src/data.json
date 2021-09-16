@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Seagate Portable 2TB External Hard Drive",
+            "price": 62.99,
+            "image": "product1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "SanDisk 128GB Extreme microSD Memory Card",
+            "price": 21.99,
+            "image": "product2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Logitech BRIO Ultra HD Webcam",
+            "price": 164.95,
+            "image": "product3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "ZOTAC Gaming GeForce RTX 3060 OC 12GB GDDR6",
+            "price": 799.00,
+            "image": "product4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "TP-Link AC1750 Smar WiFi Router",
+            "price": 59.99,
+            "image": "product5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "AMD Ryzen 5 5600X 6-core, 12-Thread Processor",
+            "price": 272.99,
+            "image":"product6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Samsung 980 SSD 1TB M.2 NVMe",
+            "price": 129.99,
+            "image":"product7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Samsung 870 QVO SATA 2.5 SSD 2TB",
+            "price": 181.52,
+            "image":"product8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Logitech G502 Hero Wired Gaming Mouse",
+            "price": 44.22,
+            "image":"product9.jpg"
+        }
+    ]
+}
