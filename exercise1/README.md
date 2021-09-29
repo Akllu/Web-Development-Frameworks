@@ -1,3 +1,5 @@
+## Exercise 1 result
+![Exercise1 result](https://user-images.githubusercontent.com/73988745/133569541-990ce258-6f58-47fd-884b-7e8b8c4402e6.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
