@@ -1,0 +1,170 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "2TB Hard Drive",
+            "manufacturer": "Seagate",
+            "category": "Hard drives",
+            "description": "Portable 2TB External Hard Drive",
+            "price": 62.99,
+            "image": "https://m.media-amazon.com/images/I/81tjLksKixL._AC_UL320_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "128GB microSD",
+            "manufacturer": "SanDisk",
+            "category": "Memory cards",
+            "description": "128GB Extreme microSD Memory Card",
+            "price": 21.99,
+            "image": "https://m.media-amazon.com/images/I/815cRpgAN3L._AC_UL320_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ultra HD Webcam",
+            "manufacturer": "Logitech",
+            "category": "Webcams",
+            "description": "BRIO Ultra HD Webcam",
+            "price": 164.95,
+            "image": "https://m.media-amazon.com/images/I/615PHGxiucL._AC_UL320_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "RTX 3060 OC 12GB",
+            "manufacturer": "Zotac",
+            "category": "Graphics cards",
+            "description": "Gaming GeForce RTX 3060 OC 12GB GDDR6",
+            "price": 799.00,
+            "image": "https://m.media-amazon.com/images/I/7156DLyUsYL._AC_UL320_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "WiFi Router",
+            "manufacturer": "TP-LINK",
+            "category": "Routers",
+            "description": "AC1750 Smart WiFi Router",
+            "price": 59.99,
+            "image": "https://m.media-amazon.com/images/I/51R2a9p-vNL._AC_UL320_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Ryzen 5 5600X",
+            "manufacturer": "AMD",
+            "category": "Processors",
+            "description": "6-core, 12-Thread Processor",
+            "price": 272.99,
+            "image":"https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_UL320_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "1TB SSD M.2",
+            "manufacturer": "Samsung",
+            "category": "Hard drives",
+            "description": "980 SSD 1TB M.2 NVMe",
+            "price": 129.99,
+            "image":"https://m.media-amazon.com/images/I/714VYiAYssL._AC_UL320_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "2TB SSD",
+            "manufacturer": "Samsung",
+            "category": "Hard drives",
+            "description": "870 QVO SATA 2.5 SSD 2TB",
+            "price": 181.52,
+            "image":"https://m.media-amazon.com/images/I/91S1PIX+yWL._AC_UL320_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Gaming Mouse",
+            "manufacturer": "Logitech",
+            "category": "Mouses",
+            "description": "G502 Hero Wired Gaming Mouse",
+            "price": 44.22,
+            "image":"https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_UL320_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Legion Gaming Laptop",
+            "manufacturer": "Lenovo",
+            "category": "Laptops",
+            "description": "15.6'' FHD Display, AMD Ryzen 7 5800H, RTX 3050Ti",
+            "price": 1049.99,
+            "image":"https://m.media-amazon.com/images/I/71fzx0pGY5L._AC_UL320_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "15 Laptop",
+            "manufacturer": "HP",
+            "category": "Laptops",
+            "description": "15.6'' Full HD IPS, Intel Core i5, 8GB RAM",
+            "price": 569.00,
+            "image":"https://m.media-amazon.com/images/I/81skV7BufjL._AC_UL320_.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Core i5-9400",
+            "manufacturer": "Intel",
+            "category": "Processors",
+            "description": "6-Core 2.90-4.10GHz",
+            "price": 218.95,
+            "image":"https://m.media-amazon.com/images/I/71Y9F8tJ8FL._AC_UY218_.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Ryzen 7 5800X",
+            "manufacturer": "AMD",
+            "category": "Processors",
+            "description": "8-core, 12-Thread Processor",
+            "price": 393.99,
+            "image":"https://m.media-amazon.com/images/I/61DYLoyNRWL._AC_UL320_.jpg"
+        },
+        {
+            "id": 14,
+            "name": "RM850x",
+            "manufacturer": "Corsair",
+            "category": "Power supplys",
+            "description": "850W 80+ Gold Fully Modular",
+            "price": 139.99,
+            "image":"https://m.media-amazon.com/images/I/71dj+5GQwEL._AC_UL320_.jpg"
+        },
+        {
+            "id": 15,
+            "name": "ROG Strix B550-F Gaming",
+            "manufacturer": "ASUS",
+            "category": "Motherboards",
+            "description": "AMD AM4 Zen 3 Ryzen 5000 ATX",
+            "price": 194.99,
+            "image":"https://m.media-amazon.com/images/I/81x069mwcbL._AC_UL320_.jpg"
+        }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "name": "Matti Meikäläinen",
+            "address": "Päätie 13",
+            "number": "0501231234"
+        },
+        {
+            "id": 2,
+            "name": "Teppo Testi",
+            "address": "Sivutie 2",
+            "number": "0501221321"
+        }
+    ],
+
+    "invoices": [
+        {
+            "id": 1,
+            "buyerName": "Matti Meikäläinen",
+            "date": "27.9.2021",
+            "totalSum": 162
+        },
+        {
+            "id": 2,
+            "buyerName": "Teppo Testi",
+            "date": "27.9.2021",
+            "totalSum": 349
+        }
+
+    ] 
+}

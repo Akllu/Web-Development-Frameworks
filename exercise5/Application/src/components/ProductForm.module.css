@@ -1,0 +1,33 @@
+.ProductForm {
+    background-color: orange;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+.Header {
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.ProductForm label {
+    display: block;
+    padding-top: 5px;
+}
+
+.ProductForm span {
+    width: 150px;
+    float: left;
+}
+
+.ProductForm button {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+    margin-top: 5px;
+}

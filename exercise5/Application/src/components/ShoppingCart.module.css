@@ -1,0 +1,55 @@
+.CartContainer {
+    padding-top: 15px;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: orange;
+}
+
+.CartContainer span {
+    border-top: 2px solid orange;
+    font-size: 25px;
+    font-weight: 800;
+    border-bottom: 2px solid orange;
+    display: flex;
+    justify-content: center;
+}
+
+.CartContainer table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.CartContainer th {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.CartContainer td {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.TotalHeader {
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+
+.BuyButton {
+    background-color: orange;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+
+.DeleteButton {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0px 10px 0px 10px;
+    background-color: red; 
+}

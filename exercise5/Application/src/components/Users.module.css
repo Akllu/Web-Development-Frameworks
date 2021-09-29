@@ -1,0 +1,40 @@
+.UsersContainer {
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-top: 2px solid white;
+}
+
+.User {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.User button {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+}
+
+.deleteButton {
+    background-color: red;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+    margin-top: 2px;
+}
+
+.newUserButton {
+    background-color: orange;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-top: 50px;
+}

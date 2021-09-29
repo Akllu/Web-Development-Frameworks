@@ -1,0 +1,29 @@
+.AdminProducts {
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+
+.ProductsContainer {
+    padding: 5px;
+}
+
+.ProductName {
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    width: 150px;
+}
+
+.DeleteButton {
+    background-color: red;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+    margin-top: 2px;
+}

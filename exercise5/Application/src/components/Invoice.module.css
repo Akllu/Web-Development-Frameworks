@@ -1,0 +1,29 @@
+.InvoiceContainer {
+    border-top: 2px solid black;
+    margin-top: 15px;     
+}
+
+.InvoiceContainer span {
+    font-size: 25px;
+    font-weight: 800;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.InvoiceContainer table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.InvoiceContainer th {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.InvoiceContainer td {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+}

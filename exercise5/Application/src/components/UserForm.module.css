@@ -1,0 +1,36 @@
+.UserForm {
+    background-color: orange;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+    padding: 15px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-top: 5px;
+    
+}
+
+.Header {
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.UserForm button {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 3px;
+    border-radius: 15px;
+    margin-top: 10px;   
+}
+
+.UserForm label {
+    display: block;
+    padding-top: 5px;
+}
+
+.UserForm span {
+    width: 150px;
+    float: left;
+}
